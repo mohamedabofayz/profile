@@ -62,8 +62,8 @@
 
 ## 📊 نشاطي على GitHub
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=radical&locale=ar)](https://github.com/[yourusername])
-[![Streak](https://streak-stats.demolab.com?user=[yourusername]&theme=radical)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=[mohamedabofayz]&theme=radical&locale=ar)](https://github.com/[mohamedabofayz])
+[![Streak](https://streak-stats.demolab.com?user=[mohamedabofayz]&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
