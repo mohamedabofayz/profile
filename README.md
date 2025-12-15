@@ -74,7 +74,7 @@
 ## 🌍 نسخة ثنائية اللغة
 
 > 💬 هذا الملف متوفر أيضًا بالإنجليزية:  
-> [View in English](https://github.com/[yourusername]/[yourusername]/blob/main/README.en.md)
+> [View in English](https://github.com/[mohamedabofayz]/[mohamedabofayz]/blob/main/README.en.md)
 
 </div>
 
